@@ -1,0 +1,19 @@
+{
+  "name": "ctci-6th-edition-javascript",
+  "version": "1.0.0",
+  "description": "# Cracking the Coding Interview 6th Edition - JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travissanon/ctci-6th-edition-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travissanon/ctci-6th-edition-javascript/issues"
+  },
+  "homepage": "https://github.com/travissanon/ctci-6th-edition-javascript#readme"
+}
