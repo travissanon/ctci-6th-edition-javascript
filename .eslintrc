@@ -1,6 +1,6 @@
 {
     "rules": {
-        "quotes": [2, "single"],
+        "quotes": [2, "double"],
         "semi": 2,
         "curly": 2,
         "camelcase": 0,
@@ -16,6 +16,14 @@
     "env": {
         "browser": true,
         "node": true,
+        "mocha": true,
+        "es6": true
+    },
+    "globals": {
+        "chrome": false
+    },
+    "parserOptions": {
+        "ecmaVersion": 2017
         "mocha": true
     },
     "globals": {
